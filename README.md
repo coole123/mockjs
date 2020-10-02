@@ -1,0 +1,2 @@
+# mockjs
+news data
